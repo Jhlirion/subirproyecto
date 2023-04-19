@@ -19,6 +19,7 @@ Pasos básicos para subir un proyecto a su repositorio de Git Hub, si bien Git H
 
 ## * Paso 05
 - Ahora el paso final, puedes buscar en tu directorio tu proyecto o puedes arrastrar directamente y posicionarlo y se cargara.
-- ![foto1](https://github.com/Jhlirion/subirproyecto/blob/main/src/5.png)
+![foto1](https://github.com/Jhlirion/subirproyecto/blob/main/src/5.png)
 
-#Felicitaciones!!!!
+
+# Felicitaciones!!!!
